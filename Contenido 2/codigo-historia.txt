@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Historia y desarrollo de Makeine: desde la novela ligera hasta su adaptación al anime.">
+  <link rel="icon" type="image/png" href="../imagenes/favicon%20de%20kazuhiko%20v2.png">
+  <title>Historia de Makeine | MAKEINE</title>
+  <link rel="stylesheet" href="../Principal/styles.css">
+</head>
+<body>
+  <a class="brand page-brand" href="../Principal/Principal.html">MAKEINE</a>
+  <main>
+    <header class="article-hero">
+      <p class="eyebrow">DE LA NOVELA LIGERA A LA ANIMACIÓN</p>
+      <h1>La historia de Makeine</h1>
+      <p class="lead">Un recorrido por el origen de la obra, su premisa y el paso de las páginas a la pantalla, sin revelar los giros principales de la trama.</p>
+    </header>
+
+    <section class="article-layout section">
+      <article class="article-body">
+        <h2>Una idea distinta para una comedia romántica</h2>
+        <p><em>Makeine: Too Many Losing Heroines!</em>, cuyo título japonés es <em>Make Heroine ga Oosugiru!</em>, gira alrededor de una pregunta poco común en el romance escolar: ¿qué sucede con las chicas que no terminan siendo elegidas por la persona que les gusta? En lugar de detenerse en la pareja que se forma, la historia desplaza el foco hacia quienes atraviesan la decepción y deben continuar con su vida. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+        <p>La serie fue escrita por Takibi Amamori y publicada por Gagaga Bunko, sello de Shogakukan. La página especial de la editorial presenta la obra como ganadora del premio Gagaga de la decimoquinta edición de los Premios Shogakukan de Novela Ligera. Ese reconocimiento antecede a la adaptación animada y sitúa el comienzo de la trayectoria de Makeine en el ámbito de la novela ligera japonesa. <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a> <a class="citation" href="../Referencias/referencias.html#ref-8" aria-label="Referencia 8">[8]</a></p>
+        <p>La página editorial reúne información de la serie y de sus volúmenes, además de material promocional y una presentación de personajes. Ese tipo de página permite ver la obra como una publicación que fue creciendo en formato de libros, antes y después de que llegara a una audiencia más amplia gracias al anime. Para quienes quieran conocer la historia desde su origen, Shogakukan ofrece fichas bibliográficas y muestras de lectura de algunos títulos. <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a> <a class="citation" href="../Referencias/referencias.html#ref-8" aria-label="Referencia 8">[8]</a></p>
+        <p>Su propuesta se apoya en una inversión de expectativas. En muchas historias románticas, el rechazo funciona como un obstáculo breve antes de que la narración vuelva a centrarse en la pareja principal. Aquí, las llamadas «heroínas perdedoras» ocupan el centro de la conversación. La etiqueta describe un resultado amoroso dentro de la trama, pero no reduce a los personajes a una derrota: cada una tiene una personalidad, actividades, vínculos y asuntos que siguen desarrollándose. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+
+        <h2>El punto de partida: Kazuhiko y las heroínas</h2>
+        <p>El relato acompaña a Kazuhiko Nukumizu, un estudiante reservado que suele sentirse más cómodo observando que llamando la atención. Su rutina cambia al encontrarse con varias compañeras que pasan por situaciones sentimentales difíciles. Esos encuentros lo acercan a Anna Yanami, Lemon Yakishio y Chika Komari, cuyas experiencias y temperamentos son diferentes entre sí. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+        <p>Anna es extrovertida, sociable y conocida por su apetito; Lemon destaca por su energía y su dedicación al atletismo; Chika es tímida y tiene dificultades para expresarse en grupos. La historia no las presenta como copias de una misma figura romántica: cada una procesa lo que siente a su manera y se relaciona con Kazuhiko desde una dinámica particular. El grupo también se amplía con compañeros, amistades, clubes y otras personas de la escuela. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+        <p>La escuela y sus actividades dan continuidad a la trama. Los personajes no se encuentran solo en escenas de confesión o tristeza: también comparten clases, clubes, eventos y conversaciones ordinarias. El club de literatura, por ejemplo, funciona como un lugar de reunión donde los desacuerdos y los momentos cómicos conviven con la posibilidad de conocerse con más calma. Así, la premisa romántica se convierte en una historia de grupo. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+
+        <h2>Cómo mezcla humor y emoción</h2>
+        <p>El humor es una parte central del tono de Makeine. Surge de las reacciones exageradas, de los malentendidos, del contraste entre lo que alguien intenta aparentar y lo que siente, y de la manera analítica en que Kazuhiko interpreta ciertas situaciones. Las escenas cómicas mantienen la narración ligera, pero no implican que las emociones de las chicas sean insignificantes. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+        <p>La historia permite que una persona haga bromas y continúe triste; que quiera conservar una amistad y necesite distancia al mismo tiempo; o que se sienta decepcionada sin perder el interés por otras cosas. Ese cambio de tono hace que la comedia romántica se interese por el después: la vida cotidiana tras una expectativa frustrada y las relaciones que aparecen alrededor de ella. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+        <p>También cambia la forma de entender a Kazuhiko como protagonista. No es el galán tradicional que resuelve cada problema con una gran declaración. A menudo escucha, observa y responde con comentarios secos o prácticos. Sus intervenciones pueden ayudar a que otros personajes miren una situación desde otro ángulo, aunque él no controla sus decisiones ni convierte cada vínculo en un romance. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+
+        <h2>De la novela ligera al anime</h2>
+        <p>La novela ligera ofrece la base narrativa de la obra: presenta los personajes, sus conversaciones y el curso de sus relaciones a través del texto. El anime adapta esa historia a un lenguaje audiovisual. La actuación de voz, las expresiones, la música, el movimiento y el ritmo de edición añaden matices a las escenas, especialmente en las reacciones rápidas que forman parte de la comedia. <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a> <a class="citation" href="../Referencias/referencias.html#ref-8" aria-label="Referencia 8">[8]</a></p>
+        <p>La adaptación televisiva fue realizada por el estudio A-1 Pictures. En los créditos oficiales figuran Shōtarō Kitamura como director y Masahiro Yokotani a cargo de la composición de serie, además del autor original Takibi Amamori. Estos elementos de producción ayudan a entender que la versión animada no es únicamente una lectura ilustrada: es una interpretación en equipo de la historia original. <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a> <a class="citation" href="../Referencias/referencias.html#ref-8" aria-label="Referencia 8">[8]</a></p>
+        <p>La adaptación oficial también identifica a Muru Imigi como responsable del diseño original de personajes y presenta a un equipo amplio para dirección, guion, animación, arte, fotografía y sonido. El trabajo conjunto de esos departamentos da forma al tono visual: la paleta escolar, los cambios de encuadre y las expresiones físicas ayudan a que las reacciones humorísticas se entiendan con rapidez, mientras que el montaje puede dejar espacio a momentos más silenciosos. <a class="citation" href="../Referencias/referencias.html#ref-6" aria-label="Referencia 6">[6]</a></p>
+        <p>Una diferencia natural entre los formatos está en cómo se presenta la interioridad. En una novela, el lector puede detenerse en la narración y en los pensamientos escritos; en la animación, parte de esa información se expresa mediante miradas, pausas, tono de voz o encuadres. El anime puede condensar o reorganizar detalles para que una escena funcione en pantalla. Por eso, quien conoce ambos formatos puede reconocer la misma premisa y, a la vez, apreciar recursos distintos en cada uno. <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a> <a class="citation" href="../Referencias/referencias.html#ref-8" aria-label="Referencia 8">[8]</a></p>
+        <p>La música también contribuye a la identidad de la adaptación. El tema de apertura, “Tsuyogaru Girl”, interpretado por Bocchi Boromaru con Mossa de Necry Talkie, acompaña la energía cómica y juvenil de la serie. Junto con las canciones de cierre y la banda sonora, ayuda a separar los momentos de humor, emoción y transición entre escenas. <a class="citation" href="../Referencias/referencias.html#ref-6" aria-label="Referencia 6">[6]</a></p>
+        <p>El sonido cumple una función narrativa además de musical. La interpretación de voz caracteriza el ritmo de cada diálogo; una respuesta rápida puede reforzar un chiste, mientras que un cambio de entonación deja ver nervios o incomodidad. Las canciones de apertura y cierre, por su parte, funcionan como marcos para cada episodio y presentan una identidad sonora reconocible sin sustituir el desarrollo de la historia. <a class="citation" href="../Referencias/referencias.html#ref-6" aria-label="Referencia 6">[6]</a></p>
+
+        <h2>Una historia que creció más allá de su premisa</h2>
+        <p>La noción de «heroína perdedora» es el gancho inicial, pero el interés de la obra se amplía cuando los personajes deben convivir después de sus desilusiones. Una confesión no correspondida puede cambiar una amistad; el grupo puede ofrecer compañía, pero también generar situaciones incómodas; y los protagonistas siguen teniendo objetivos que no dependen de encontrar pareja. Ese espacio entre el conflicto romántico y la vida común es donde la serie construye gran parte de su personalidad. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+        <p>El éxito de la novela llevó a su adaptación al anime y acercó la historia a personas que quizá no conocían el formato literario. La página oficial del anime anunció además la producción de una segunda temporada, señal de que el proyecto continúa después de la primera adaptación televisiva. Para seguir el orden y las novedades de futuras entregas, conviene consultar los anuncios oficiales cuando se publiquen. <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a> <a class="citation" href="../Referencias/referencias.html#ref-8" aria-label="Referencia 8">[8]</a></p>
+        <p>La adaptación mantiene una relación cercana con el material original, pero cada medio tiene posibilidades distintas. Una novela puede extenderse en reflexiones y detalles narrativos; un episodio televisivo debe organizar sus escenas dentro de una duración concreta y comunicar estados de ánimo con imagen, movimiento y sonido. Al comparar ambos formatos, resulta más productivo observar cómo cuentan una situación que esperar una reproducción idéntica palabra por palabra. <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a> <a class="citation" href="../Referencias/referencias.html#ref-8" aria-label="Referencia 8">[8]</a></p>
+        <p>La historia de Makeine, tanto en novela como en anime, trata sobre personas que no obtienen el desenlace romántico que esperaban, pero no se quedan congeladas en ese momento. La obra no afirma que el rechazo sea agradable ni que todo se solucione rápido. En cambio, convierte ese punto de partida en una oportunidad para observar la amistad, la vida escolar y el crecimiento de personajes que suelen quedar al margen de otras historias románticas. <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a> <a class="citation" href="../Referencias/referencias.html#ref-8" aria-label="Referencia 8">[8]</a></p>
+
+      </article>
+    </section>
+  </main>
+
+  <section class="media-section section" aria-labelledby="historia-ending-title">
+    <div class="media-heading">
+      <p class="section-kicker">ENDING Y MÚSICA</p>
+      <h2 id="historia-ending-title">Anna Yanami</h2>
+      <p>El primer ending de la serie y una pieza instrumental para acompañar el recorrido por su historia. <a class="citation" href="../Referencias/referencias.html#ref-6" aria-label="Referencia 6">[6]</a></p>
+    </div>
+    <div class="media-grid">
+      <article class="media-card">
+        <video controls preload="metadata">
+          <source src="../videos%20y%20audios/Make%20Heroine%20ga%20Oosugiru%20ED%20Full%20Sub%20Espa%C3%B1ol%20_%20LOVE%202000%20-%20Anna%20Yanami%20_%28720P_HD%29.mp4" type="video/mp4">
+          Tu navegador no puede reproducir este video.
+        </video>
+        <div class="media-caption">
+          <p class="section-kicker">ENDING 1</p>
+          <h3>“LOVE 2000” — Anna Yanami</h3>
+        </div>
+      </article>
+      <article class="media-card audio-card">
+        <div class="audio-art">
+          <span>♪</span>
+        </div>
+        <div class="media-caption">
+          <p class="section-kicker">MÚSICA INSTRUMENTAL</p>
+          <h3>“Comptine d'un autre été”</h3>
+          <audio controls preload="metadata">
+            <source src="../videos%20y%20audios/Comptine%20d_un%20autre%20%C3%A9t%C3%A9_%20l_apr%C3%A8s-midi%28MP3_160K%29.mp3" type="audio/mpeg">
+            Tu navegador no puede reproducir este audio.
+          </audio>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <footer class="content-footer">
+    <span>MAKEINE</span>
+    <nav class="page-navigation" aria-label="Navegación entre páginas">
+      <a href="../Contenido 1/personajes.html" aria-label="Ir a Personajes" title="Personajes">← Personajes</a>
+      <a class="home-link" href="../Principal/Principal.html" aria-label="Ir a Principal" title="Principal">Principal</a>
+      <a href="../Contenido 3/rechazo.html" aria-label="Ir a Rechazo" title="Rechazo">Rechazo →</a>
+    </nav>
+  </footer>
+</body>
+</html>

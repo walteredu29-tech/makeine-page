@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Una reflexión extensa sobre amistad, escucha, empatía y apoyo mutuo a partir de Makeine.">
+  <link rel="icon" type="image/png" href="../imagenes/favicon%20de%20de%20yumeko.png">
+  <title>Amistad, escucha y apoyo | MAKEINE</title>
+  <link rel="stylesheet" href="../Principal/styles.css">
+</head>
+<body>
+  <a class="brand page-brand" href="../Principal/Principal.html">MAKEINE</a>
+  <main>
+    <header class="article-hero">
+      <p class="eyebrow">TEMA DE VIDA · VÍNCULOS Y EMPATÍA</p>
+      <h1>La amistad que acompaña</h1>
+      <p class="lead">Makeine reúne a personas diferentes alrededor de decepciones, conversaciones y momentos cotidianos. Esta reflexión explora cómo escuchar, ofrecer ayuda sin imponerla y respetar los límites puede convertir la amistad en una red de apoyo real.</p>
+    </header>
+
+    <section class="article-layout section">
+      <article class="article-body">
+        <h2>No hace falta tener la respuesta perfecta</h2>
+        <p>Una de las cosas más valiosas que puede hacer un amigo no es resolver el problema, sino quedarse presente mientras la otra persona lo cuenta. En <em>Makeine</em>, Kazuhiko Nukumizu conoce a chicas que atraviesan desilusiones amorosas y termina cerca de ellas por una mezcla de circunstancias, curiosidad y conversaciones. Su papel no consiste en transformarse en un héroe que controla las decisiones de los demás. Muchas veces, la relación avanza porque alguien escucha, pregunta y acompaña una situación que no puede arreglar de inmediato. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>En la vida cotidiana, esa diferencia importa. Cuando un amigo sufre, podemos sentir presión por decir algo inteligente, ofrecer una solución rápida o comparar su experiencia con la nuestra. Sin embargo, frases como “ya lo superarás” o “hay personas peores” pueden hacer que se sienta poco comprendido. Escuchar no exige estar de acuerdo con cada interpretación; sí requiere mostrar que tomamos en serio lo que la persona siente antes de empezar a aconsejarla. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+
+        <h2>Escuchar para comprender, no para preparar una respuesta</h2>
+        <p>La escucha atenta combina palabras y presencia. Significa dejar que la otra persona termine una idea, preguntar con interés y tratar de entender qué parte del problema le pesa más. A veces conviene resumir lo que se escuchó: “Entonces te dolió la respuesta, pero también te preocupa perder la amistad, ¿es así?”. Una pregunta sencilla permite corregir malentendidos y demuestra que no estamos oyendo solo para encontrar nuestro turno de hablar. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>Otra pregunta útil es “¿quieres que solo te escuche o prefieres que pensemos juntos qué hacer?”. No todo el mundo busca lo mismo en una conversación. Alguien puede querer desahogarse hoy y pedir una idea práctica mañana. Preguntar evita imponer consejos, y también reconoce que quien vive la situación es quien mejor conoce sus prioridades. La amistad ofrece compañía; no entrega a una persona el control sobre la vida de otra. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>Escuchar también puede incluir silencios. Si alguien está triste, no es obligatorio llenar cada pausa con bromas. Podemos decir “no sé exactamente qué responder, pero estoy aquí” y permitir que la conversación tenga su propio ritmo. La honestidad suele ser más cercana que fingir una seguridad que no sentimos. Cuando hay riesgo o una necesidad que supera lo que podemos manejar, acompañar incluye ayudar a buscar una persona adulta o profesional de confianza. <a class="citation" href="../Referencias/referencias.html#ref-9" aria-label="Referencia 9">[9]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>Una escucha respetuosa evita convertir la conversación en un interrogatorio. Preguntar qué necesita la persona es útil; insistir en conocer nombres, mensajes privados o detalles que no quiere compartir puede hacer que se cierre. Si no está lista para hablar, se puede ofrecer una actividad tranquila o volver a preguntar otro día. La compañía no se mide por la cantidad de información que conseguimos, sino por si la otra persona siente que puede elegir qué contar. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <div class="article-callout">Acompañar no es decidir por el otro: es ofrecer una presencia respetuosa mientras recupera su propia voz.</div>
+
+        <h2>El apoyo no borra los límites</h2>
+        <p>Una amistad sana puede ser cercana sin estar disponible a toda hora ni aceptar cualquier conducta. Se puede querer a alguien y necesitar descansar, estudiar, atender responsabilidades o tomar distancia de un tema que resulta abrumador. Acordar límites claros no debilita automáticamente la relación: ayuda a que el apoyo sea sostenible y no se transforme en obligación, vigilancia o resentimiento. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>También es importante respetar el límite de quien nos cuenta algo. No reenviar capturas, publicar indirectas, investigar a la persona que le gusta ni contar su confidencia al grupo sin permiso. Incluso una acción que parece “ayuda” puede exponerlo o empeorar una situación. Si creemos que existe peligro, la prioridad puede ser acudir a alguien que pueda protegerle, pero, salvo esas situaciones, la privacidad debe tratarse con cuidado. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>En la serie, el humor surge a menudo de la cercanía y de personajes que se meten en asuntos ajenos. La ficción puede exagerar las intromisiones para producir comedia; en la vida real, conviene no confundir esa licencia narrativa con un modelo de amistad. Acompañar no significa que tengamos derecho a conocer todos los detalles o a intervenir en las relaciones románticas de nuestros amigos. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+
+        <h2>Empatía sin convertir la experiencia ajena en la nuestra</h2>
+        <p>Es natural intentar conectar diciendo “a mí me pasó algo parecido”. Compartir una experiencia puede ayudar si se hace con cuidado, pero puede desplazar la conversación si terminamos contando nuestra historia con más detalle que la persona que pidió apoyo. Una forma de mantener el foco es preguntar primero si le sirve escuchar una experiencia personal y volver después a lo que necesita el amigo. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>La empatía no requiere sentir exactamente lo mismo. Podemos reconocer que la experiencia de otra persona tiene sentido desde su perspectiva, aunque nosotros hubiéramos reaccionado diferente. Anna, Lemon y Chika no viven sus decepciones de una forma idéntica; tampoco las amistades reales responden con una personalidad única. Algunas personas hablan mucho, otras necesitan ordenar sus pensamientos en privado y algunas expresan el malestar con humor. El apoyo atento busca comprender esa diferencia en vez de juzgarla. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>Evitar la burla es parte de esa comprensión. Un apodo afectuoso puede resultar divertido en un grupo y humillante en otro; una broma sobre quién fue rechazado puede tocar justo el punto más doloroso. Si alguien dice que algo le molestó, una respuesta empática no es discutirle que “solo era un chiste”, sino escuchar el efecto y decidir si podemos expresarnos de otra manera. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+
+        <h2>Amistad, romance y respeto por las decisiones</h2>
+        <p>Los sentimientos románticos pueden complicar una amistad, sobre todo cuando dos personas quieren a la misma persona o cuando una confesión no es correspondida. La emoción de sentir celos no convierte a alguien en mala persona; lo que importa es cómo se actúa con ella. Presionar a un amigo para que deje a su pareja, difundir rumores o tratar de sabotear la relación no es una manera respetuosa de conseguir afecto. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>Del mismo modo, no se debe exigir a la persona rechazada que siga siendo amiga inmediatamente. Puede querer conservar el vínculo, necesitar unas semanas de distancia o concluir que ya no le hace bien. En lugar de imponer una solución, podemos hablar sobre necesidades concretas: qué temas se pueden tratar, qué encuentros resultan incómodos y qué señales indicarían que es momento de revisar los acuerdos. La comunicación no garantiza que nadie salga herido, pero reduce la confusión y el resentimiento. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>La amistad tampoco es un premio de consolación que se deba aceptar después de una confesión. Si una persona solo permanece cerca esperando que el otro cambie de opinión, puede terminar lastimándose y ejerciendo una presión silenciosa. Ser honestos sobre las propias expectativas es más respetuoso con ambos. A veces, una pausa permite descubrir si se desea una amistad de verdad o si es mejor dejar que el vínculo cambie. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+
+        <h2>El apoyo mutuo no es una relación de rescate</h2>
+        <p>Cuando un amigo tiene problemas, es posible asumir que debemos estar disponibles para todo y encontrar la solución correcta. Esa idea puede convertir una amistad en una relación desigual: uno se vuelve el cuidador permanente y el otro queda definido como alguien que siempre necesita ser rescatado. Las personas atraviesan temporadas distintas; el apoyo puede alternarse y cada integrante conserva responsabilidades sobre sus decisiones y su bienestar. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>El rol de Kazuhiko ofrece una oportunidad para reflexionar sobre esa frontera. Su disposición a escuchar ayuda a que las heroínas no queden solas, pero el espectador no debería concluir que una sola persona debe hacerse cargo de resolver el dolor de todo el grupo. En la vida real, incluso un amigo muy atento puede cansarse o no saber qué hacer. Reconocerlo a tiempo permite compartir la responsabilidad con más personas y encontrar apoyo adecuado. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>El apoyo saludable puede ser recíproco sin convertirse en una contabilidad exacta. En distintos momentos, una persona puede escuchar más y en otros necesitar que la escuchen. Lo importante es que ninguno sienta que tiene que ganarse el derecho a ser cuidado, ni que una ayuda pasada da permiso para decidir por el otro. Agradecer el apoyo y mantener la autonomía pueden formar parte de la misma relación. <a class="citation" href="../Referencias/referencias.html#ref-9" aria-label="Referencia 9">[9]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>La conexión social puede incluir ayuda emocional y también apoyo muy práctico: acompañar a alguien a hablar con un docente, compartir una comida, caminar juntos o ayudar a organizar una tarea. Los Centros para el Control y la Prevención de Enfermedades de Estados Unidos describen las conexiones sociales como una combinación de vínculos, roles y calidad de las relaciones; también señalan que las relaciones de apoyo pueden ayudar a afrontar el estrés. Esas conexiones no tienen que ser grandiosas para ser significativas. <a class="citation" href="../Referencias/referencias.html#ref-9" aria-label="Referencia 9">[9]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+
+        <h2>La amistad se construye en lo cotidiano</h2>
+        <p>Las amistades no aparecen solo durante una crisis. También se fortalecen con momentos ordinarios: compartir un interés, colaborar en un club, preguntar cómo salió un examen, recordar una conversación o invitar a alguien a participar sin presionarlo. En Makeine, el club de literatura funciona como un lugar donde personajes distintos coinciden y desarrollan una vida común además de sus conflictos románticos. El espacio compartido crea oportunidades para conocerse con tiempo. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>La pertenencia no significa que todos tengan que ser iguales. Un grupo puede incluir a una persona extrovertida, otra más reservada y alguien que prefiere bromear cuando está nervioso. El respeto se muestra cuando hay espacio para participar a diferentes ritmos y cuando no se usa una característica personal para excluir a alguien. Las amistades también pueden crecer entre generaciones, compañeros de actividades o personas con intereses que al principio parecían distintos. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>Invitar puede ser tan importante como aceptar un no. “Si quieres, ven con nosotros; si hoy prefieres descansar, está bien” ofrece una posibilidad sin convertirla en una prueba de lealtad. La otra persona puede elegir sin tener que inventar excusas. Cuando se acumulan invitaciones respetuosas, el grupo comunica que hay un lugar disponible, pero no una deuda que deba pagarse. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+
+        <h2>Cómo ofrecer apoyo de manera concreta</h2>
+        <p>Cuando no sepamos qué hacer, podemos probar acciones pequeñas y explícitas. Por ejemplo: <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <ul>
+          <li>Preguntar qué necesita ahora: escuchar, compañía, una distracción o ayuda para encontrar orientación.</li>
+          <li>Ofrecer una opción específica y fácil de aceptar o rechazar, como dar un paseo o estudiar juntos.</li>
+          <li>Respetar la privacidad y preguntar antes de compartir información con otras personas.</li>
+          <li>Recordar que el apoyo puede continuar después de la primera conversación, sin exigir que el amigo cuente más de lo que desea.</li>
+          <li>Reconocer nuestros propios límites y pedir colaboración cuando una situación es demasiado pesada para manejarla sin ayuda.</li>
+        </ul>
+        <p>Un ofrecimiento concreto suele ser más útil que una promesa enorme. “Si quieres, te acompaño a hablar con la orientadora mañana” plantea un paso realista. “Puedes contar conmigo para todo, siempre” suena generoso, pero puede ser imposible de cumplir. Ser confiable significa que nuestras palabras y acciones tengan una escala que podamos sostener. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>Después de una conversación difícil, también se puede dar seguimiento sin exigir una actualización: “Me acordé de lo que me contaste; si te sirve compañía esta semana, avísame”. Esa invitación deja claro que la persona no tiene que repetir la historia ni responder de inmediato. A veces ayuda mantener una rutina compartida, como almorzar juntos o ir al club, para que el vínculo no quede definido únicamente por el problema. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+
+        <h2>Cuando la amistad necesita ayuda de otras personas</h2>
+        <p>Hay situaciones en las que los amigos pueden ofrecer compañía, pero no son suficientes por sí solos. Si alguien expresa que no se siente seguro, sufre acoso, deja de poder realizar actividades cotidianas o muestra un deterioro persistente, podemos ayudarle a contactar a una persona adulta de confianza, un orientador escolar o un profesional de salud. Si existe peligro inmediato, se debe recurrir a los servicios de emergencia o crisis de la localidad. <a class="citation" href="../Referencias/referencias.html#ref-9" aria-label="Referencia 9">[9]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>Buscar ayuda no rompe la confianza: puede ser una forma de protegerla. Es importante no prometer secreto absoluto ante un riesgo serio. Se puede decir con claridad: “Me importa lo que me cuentas y no quiero dejarte solo con esto; busquemos a alguien que pueda ayudarnos”. La Organización Mundial de la Salud señala que el bienestar mental adolescente está influido por varios entornos y que el apoyo oportuno importa. Eso no convierte a los amigos en terapeutas; recuerda que también existen adultos y servicios preparados para intervenir. <a class="citation" href="../Referencias/referencias.html#ref-9" aria-label="Referencia 9">[9]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>Para problemas menos urgentes, la persona puede decidir cuándo está lista para pedir apoyo adicional. Podemos ofrecer acompañarla, ayudar a encontrar información fiable o preguntar después cómo le fue. Evitemos diagnosticarla, prometer resultados o presionarla a contar detalles privados. Estar presente no significa tener autoridad profesional; significa ayudar a que la persona llegue a recursos apropiados cuando lo necesite. <a class="citation" href="../Referencias/referencias.html#ref-9" aria-label="Referencia 9">[9]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+
+        <h2>Crecer juntos sin perder la individualidad</h2>
+        <p>Una buena amistad no borra las diferencias ni exige que todos estén de acuerdo. Permite discutir, disculparse, ajustar expectativas y cambiar con el tiempo. En una historia escolar como Makeine, la convivencia crea ocasiones para que sus personajes se sorprendan entre sí y aprendan a mirar más allá de la primera impresión. En la vida real, algo parecido ocurre cuando dejamos que una persona nos muestre nuevas facetas en vez de fijarla para siempre en el papel de “la tímida”, “el gracioso” o “quien siempre tiene problemas”. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>También es posible que una amistad se transforme o termine. La distancia, los cambios de escuela, los intereses nuevos y los desacuerdos pueden mover los vínculos. Sentir tristeza por ello no significa que la relación haya sido inútil. Podemos agradecer lo que ofreció, expresar lo que sentimos y elegir qué contacto queremos mantener. Cuidar una amistad incluye aceptar que las dos personas tienen derecho a crecer de formas distintas. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>La conexión social que describe el CDC no equivale a tener cientos de contactos: incluye la calidad, variedad y sentido de pertenencia que una persona busca. Algunas personas se sienten acompañadas con un círculo pequeño; otras participan en grupos más amplios. Importa menos alcanzar una imagen ideal de popularidad que contar con vínculos donde sea posible recibir y ofrecer cuidado sin perder la autonomía. <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>Los grupos también necesitan cuidar la forma en que integran a alguien nuevo o más reservado. Invitar a participar sin forzar una respuesta, explicar bromas internas y dejar espacio para que cada persona hable a su ritmo son gestos sencillos que ayudan a crear pertenencia. En el club de literatura de la serie, los personajes coinciden por una actividad común; en otros contextos puede ser un equipo, una clase, un proyecto o un interés compartido. El punto no es que todos se vuelvan íntimos, sino que haya oportunidades reales de conocerse. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+
+        <h2>Una red de apoyo hecha de pequeñas presencias</h2>
+        <p>La lección más amable que podemos extraer de los encuentros de Makeine es que nadie debería quedar reducido a su momento más vergonzoso o doloroso. La amistad ayuda a recordar quién es alguien fuera de su desilusión: qué le gusta, qué sabe hacer, qué le causa risa y qué espera para sí mismo. Esa mirada completa no elimina el problema, pero puede impedir que el problema ocupe toda la identidad. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>Acompañar significa preguntar, escuchar, ser honesto y respetar el ritmo ajeno. También supone aceptar que a veces la mejor ayuda es una invitación tranquila; otras veces, una conversación seria o el contacto con un profesional. No tenemos que convertirnos en protagonistas de la vida de los demás. Podemos ser parte de una red que distribuye el cuidado y deja que cada persona tome sus propias decisiones. <a class="citation" href="../Referencias/referencias.html#ref-9" aria-label="Referencia 9">[9]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+        <p>En una serie de romance, la amistad puede aparecer como puente entre una decepción y un nuevo capítulo. En la vida real, no todas las historias se resuelven rápido ni todas las relaciones permanecen iguales. Aun así, una persona que escucha sin ridiculizar, ofrece ayuda sin invadir y acepta un límite puede hacer que un día difícil sea un poco menos solitario. Esa presencia modesta, repetida con respeto, es una forma importante de cuidado. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a> <a class="citation" href="../Referencias/referencias.html#ref-10" aria-label="Referencia 10">[10]</a></p>
+
+      </article>
+    </section>
+  </main>
+
+  <section class="media-section section" aria-labelledby="amistad-ending-title">
+    <div class="media-heading">
+      <p class="section-kicker">ENDING Y MÚSICA</p>
+      <h2 id="amistad-ending-title">Chika Komari</h2>
+      <p>El tercer ending y una pieza instrumental tranquila para cerrar esta reflexión sobre amistad y apoyo. <a class="citation" href="../Referencias/referencias.html#ref-6" aria-label="Referencia 6">[6]</a></p>
+    </div>
+    <div class="media-grid">
+      <article class="media-card">
+        <video controls preload="metadata">
+          <source src="../videos%20y%20audios/Make%20Heroine%20ga%20Oosugiru%20Ending%203%20Sub%20Espa%C3%B1ol%20_%20Feel%20My%20Soul%20-%20Chika%20Komari%20_%28720P_HD%29.mp4" type="video/mp4">
+          Tu navegador no puede reproducir este video.
+        </video>
+        <div class="media-caption">
+          <p class="section-kicker">ENDING 3</p>
+          <h3>“Feel My Soul” — Chika Komari</h3>
+        </div>
+      </article>
+      <article class="media-card audio-card">
+        <div class="audio-art">
+          <span>♪</span>
+        </div>
+        <div class="media-caption">
+          <p class="section-kicker">MÚSICA INSTRUMENTAL</p>
+          <h3>“Merry-Go-Round of Life”</h3>
+          <audio controls preload="metadata">
+            <source src="../videos%20y%20audios/Joe%20Hisaishi%20-%20Merry-Go-Round%20of%20Life%20%28from%20Howl_s%20Moving%20Castle%29%28MP3_160K%29.mp3" type="audio/mpeg">
+            Tu navegador no puede reproducir este audio.
+          </audio>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <footer>
+    <span>MAKEINE</span>
+    <nav class="page-navigation" aria-label="Navegación entre páginas">
+      <a href="../Contenido 3/rechazo.html" aria-label="Ir a Rechazo" title="Rechazo">← Rechazo</a>
+      <a href="../Principal/Principal.html" aria-label="Ir a Principal" title="Principal">Principal →</a>
+    </nav>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="../imagenes/favicon%20de%20de%20yanami%20v2.png">
+  <title>MAKEINE — Heroínas que pierden</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="brand page-brand" href="Principal.html">MAKEINE</a>
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">UNA COMEDIA ROMÁNTICA ESCOLAR</p>
+        <h1>Demasiadas<br><em>heroínas perdedoras</em></h1>
+        <p class="lead">¿Qué pasa con las chicas cuando su historia de amor no sale como esperaban? Makeine sigue sus desamores, amistades y nuevos comienzos con humor y sensibilidad.</p>
+        <div class="hero-actions">
+          <a class="text-link" href="#trailer">Ver tráiler <span>↓</span></a>
+        </div>
+        <p class="hero-note">Una historia sobre perder en el amor y seguir adelante.</p>
+      </div>
+    </section>
+
+    <section class="intro section">
+      <p class="section-kicker">INTRODUCCIÓN</p>
+      <h2>Cuando perder también cuenta una historia</h2>
+      <div class="intro-content">
+        <figure class="intro-visual">
+          <img src="media/poster-makeine.jpg" alt="Póster del anime Makeine: Too Many Losing Heroines!">
+          <figcaption>Makeine: Too Many Losing Heroines!</figcaption>
+        </figure>
+        <div class="long-intro">
+        <p><strong>Makeine: Too Many Losing Heroines!</strong>, conocida en japonés como <em>Make Heroine ga Oosugiru!</em>, es una comedia romántica escolar creada por Takibi Amamori. La historia gira alrededor de Kazuhiko Nukumizu, un estudiante bastante reservado que prefiere observar la vida de sus compañeros desde la distancia. Nukumizu no aspira a ser el protagonista de una gran aventura romántica, sino que suele considerarse una persona secundaria dentro de su propio entorno. Sin embargo, su vida cambia cuando conoce repetidamente a chicas que han sido rechazadas por sus respectivos intereses amorosos. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a></p>
+
+        <p>A diferencia de otras historias románticas, la serie presta especial atención a los momentos que normalmente quedan fuera de las narraciones tradicionales: la preparación para una confesión, el rechazo, la tristeza posterior y el proceso necesario para continuar con la vida. Por eso, las jóvenes protagonistas reciben el nombre de «heroínas perdedoras», ya que sus historias de amor no siguen el camino esperado. Aunque pierdan frente a otra persona o vean que sus sentimientos no sean correspondidos, no dejan de tener sueños, defectos, aspiraciones y una personalidad propia. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a></p>
+
+        <p>Entre las figuras centrales se encuentran Anna Yanami, Lemon Yakishio y Chika Komari. Anna parece ser una chica extrovertida, alegre y muy popular, aunque muchas veces utiliza su apariencia despreocupada para ocultar lo que realmente siente. Lemon es una deportista llena de energía y determinación que dedica gran parte de su tiempo al atletismo. Por su parte, Chika es más tímida, sensible y reservada; pertenece al club de literatura y tiene dificultades para expresar directamente sus emociones. Las tres representan maneras diferentes de enfrentar la adolescencia, la amistad y el amor. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+
+        <p>El protagonismo de Kazuhiko es peculiar, pues no suele actuar como el galán típico de las comedias románticas. Su actitud observadora, prudente y ocasionalmente sarcástica le permite entender lo que ocurre alrededor de él sin imponer su opinión de forma constante. Cuando alguna de las chicas se encuentra en una situación complicada, termina acompañándola y ofreciéndole apoyo. A través de esas conversaciones, la serie muestra que escuchar con atención puede ser tan importante como participar directamente en una relación. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+
+        <p>La obra combina escenas cómicas con momentos emocionales bastante realistas. Las situaciones de clase, los clubes escolares, las competencias deportivas y los encuentros cotidianos producen diálogos divertidos y comentarios inesperados. Sin embargo, detrás del humor existe una reflexión sobre el miedo al rechazo, la presión social, la autoestima y la necesidad de aceptar el propio pasado. Las protagonistas aprenden que una decepción amorosa no define su valor ni obliga a renunciar a nuevas oportunidades. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a></p>
+
+        <p>Otro aspecto relevante es que cada heroína conserva su libertad para tomar decisiones. No todas necesitan encontrar una pareja inmediatamente, ni tienen que cambiar su forma de ser para convertirse en una versión perfecta de sí mismas. Algunas buscan recuperar la amistad, otras desean mejorar en sus actividades favoritas y muchas simplemente necesitan tiempo para ordenar sus sentimientos. De esta forma, la serie presenta el crecimiento personal como un proceso continuo que puede comenzar justamente a partir de una pérdida. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a></p>
+
+        <p>La historia parte de una idea sencilla, pero poco habitual: en vez de seguir únicamente a quien consigue formar una pareja, acompaña a quienes quedan fuera de ese desenlace. La expresión «heroína perdedora» describe la posición que una chica ocupa dentro de una historia romántica, no su valor como persona. Al cambiar el punto de vista, la serie transforma el supuesto final de esas historias en el comienzo de nuevas relaciones, decisiones y situaciones escolares. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a></p>
+
+        <p>El contraste entre las protagonistas hace que el tema no se repita de una sola manera. Anna es una amiga de la infancia alegre y muy aficionada a la comida; Lemon representa a la deportista llena de energía; y Chika es una joven tímida que tiene dificultades para desenvolverse socialmente. Estos rasgos sirven como punto de partida para sus personalidades, no como una descripción completa de ellas. Conforme conviven con Kazuhiko y con sus compañeros, se revelan inseguridades, fortalezas y deseos que no siempre son visibles a primera vista. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+
+        <p>El escenario escolar también cumple una función importante. El club de literatura, el equipo de atletismo, las aulas y los espacios comunes hacen que los personajes vuelvan a encontrarse incluso después de momentos incómodos. Esos lugares compartidos dan continuidad a la vida diaria: una decepción no detiene las clases, las actividades ni las conversaciones. La comedia nace muchas veces de tener que convivir con otras personas cuando uno todavía está tratando de ordenar sus sentimientos. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+
+        <p>Kazuhiko ocupa una posición particular dentro de ese grupo. Al comienzo prefiere pasar inadvertido y observar desde una distancia segura, pero los problemas de los demás lo involucran poco a poco. No es un protagonista que siempre tenga una respuesta perfecta; sus comentarios secos y su manera analítica de mirar las situaciones también producen humor. Su presencia permite que los personajes hablen y se conozcan, aunque cada uno conserva la responsabilidad de tomar sus propias decisiones. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+
+        <p>El equilibrio entre comedia y emoción distingue el tono de la serie. Las conversaciones exageradas, los malentendidos y las reacciones inesperadas alivian los momentos tensos, pero no hacen que los sentimientos de los personajes desaparezcan. La risa puede convivir con la vergüenza o la tristeza: una persona puede bromear sobre una situación y seguir necesitando tiempo para aceptarla. Esa mezcla da espacio para tratar el rechazo con ligereza en algunas escenas y con sinceridad en otras. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+
+        <p>También hay una diferencia entre perder una oportunidad amorosa y perder toda posibilidad de ser feliz. La serie invita a separar esas ideas: que alguien no corresponda a nuestros sentimientos no borra los vínculos que ya existen ni impide crear otros. Las amistades pueden cambiar, algunas conversaciones pueden ser difíciles y no todos los conflictos se resuelven de inmediato. Aun así, los personajes siguen teniendo aficiones, metas y relaciones que no dependen de conseguir una pareja. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+
+        <p>La obra comenzó como una novela ligera japonesa y luego llegó a la animación. En su adaptación al anime, las expresiones, los silencios, la música y el ritmo de las escenas aportan otra manera de percibir los estados de ánimo. Una mirada o una pausa pueden decir tanto como una explicación directa, mientras que los cambios rápidos de tono refuerzan el humor. El resultado conserva la energía de una comedia escolar y, al mismo tiempo, permite detenerse en las reacciones de quienes suelen quedar en segundo plano. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a></p>
+
+        <p>La estructura coral ayuda a que el mundo de la serie parezca más amplio que un solo triángulo amoroso. Cada personaje llega con sus propios vínculos y asuntos pendientes, y esos caminos se cruzan en actividades compartidas. Así, una escena puede empezar como una conversación sobre un desamor y terminar mostrando una amistad, una rivalidad deportiva o una diferencia de carácter. El grupo no elimina los problemas individuales, pero crea ocasiones para que sus integrantes se vean desde perspectivas nuevas. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+
+        <p>La adaptación también aprovecha recursos propios de la animación para distinguir esos momentos. El ritmo puede pasar de una reacción visual exagerada a una pausa tranquila; la música y las expresiones acompañan cambios de ánimo sin necesidad de explicarlo todo con diálogo. Esto hace que el humor no dependa únicamente de los chistes: muchas veces surge de cómo los personajes reaccionan, de lo que callan y de la distancia entre lo que intentan aparentar y lo que realmente sienten. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-5" aria-label="Referencia 5">[5]</a></p>
+
+        <p>El lugar donde se desarrolla la historia también le da un carácter propio. La ciudad de Toyohashi, en la prefectura de Aichi, es importante para el vínculo de la obra con su entorno: el autor Takibi Amamori ha hablado de su conexión personal con la ciudad y de la emoción de ver a los personajes desenvolverse allí. En la adaptación, los paisajes y espacios reconocibles contribuyen a que las caminatas, los trayectos escolares y las actividades parezcan parte de una vida diaria concreta, en lugar de un escenario genérico. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a></p>
+
+        <p>El título de la obra resume su tono con una paradoja deliberada. «Demasiadas heroínas perdedoras» suena como una etiqueta cómica, pero al mismo tiempo señala a quiénes quiere observar la historia. La palabra “perdedora” se refiere a no conseguir una relación amorosa deseada; no significa que la joven haya fracasado en todo ni que su historia carezca de interés. La serie invita a mirar con curiosidad qué ocurre con sus protagonistas una vez que el romance deja de ser el único horizonte. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a></p>
+
+        <p>Por eso, Makeine puede disfrutarse como una comedia de situaciones y también como una historia de relaciones. Una broma puede revelar que dos personas tienen confianza, mientras que un silencio puede mostrar que todavía no saben cómo hablar de algo doloroso. Los cambios de registro permiten acercarse a los personajes sin convertir cada episodio en un drama, y hacen que el humor dependa tanto de sus personalidades como de los sucesos románticos que las reúnen. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-4" aria-label="Referencia 4">[4]</a></p>
+
+        <p>La obra también se apoya en convenciones conocidas del género —el amor de la infancia, los clubes escolares, las confesiones y los malentendidos— para jugar con ellas desde otro punto de vista. El espectador puede reconocer situaciones familiares, pero la narración no las trata únicamente como pasos hacia una pareja. En cambio, pregunta cómo se sienten quienes quedan al margen de ese desenlace y cómo cambia su relación con el resto del grupo cuando la expectativa romántica ya no puede cumplirse de la misma manera. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a></p>
+
+        <p>Para quien se acerca por primera vez, el anime ofrece una entrada accesible a esa idea: presenta rápidamente a sus personajes y combina los conflictos con escenas cotidianas. Quienes quieran conocer más detalles de la historia pueden continuar con las novelas ligeras, que desarrollan el mundo y las relaciones en otro formato. La adaptación y los libros se complementan, aunque cada uno organiza la narración con sus propios recursos y no es necesario conocer ambos para seguir la premisa central. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a></p>
+
+        <p>En conjunto, la serie propone mirar con paciencia a personas que podrían quedar reducidas a un estereotipo. Una estudiante popular también puede sentirse insegura; una atleta enérgica puede tener dudas; una persona reservada puede crear lazos importantes sin transformarse en alguien completamente distinto. Esa atención a las contradicciones hace que el reparto resulte más cercano y mantiene abierta la historia después de cada situación romántica. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a></p>
+
+        <p>Finalmente, <em>Makeine</em> ofrece una mirada cálida y entretenida sobre las relaciones juveniles. Su interés no está en afirmar que perder sea bueno ni en exigir que todo dolor se convierta enseguida en una lección. Más bien, muestra que una historia personal continúa después de una decepción: con momentos incómodos, amistades, actividades cotidianas y oportunidades para conocerse mejor. Por medio de personajes distintos y conflictos escolares, el anime invita a mirar con respeto a quienes no ocupan el lugar tradicional de la pareja perfecta. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-5" aria-label="Referencia 5">[5]</a></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="features section">
+      <article>
+        <span>01</span>
+        <h3>Romance inesperado</h3>
+        <p>Las historias de amor se cuentan desde los bordes de la confesión, con mucha sinceridad y humor. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a></p>
+      </article>
+      <article>
+        <span>02</span>
+        <h3>Crecimiento personal</h3>
+        <p>Las protagonistas transforman una decepción en una oportunidad para conocerse mejor. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a></p>
+      </article>
+      <article>
+        <span>03</span>
+        <h3>Comedia escolar</h3>
+        <p>Clubes, conversaciones absurdas y situaciones cotidianas crean un ambiente ligero y memorable. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a></p>
+      </article>
+    </section>
+
+    <section class="life-topics section">
+      <p class="section-kicker">TEMAS PARA REFLEXIONAR</p>
+      <h2>Más allá del romance</h2>
+      <div class="topic-cards">
+        <article class="topic-card">
+          <p class="section-kicker">01 · AUTOESTIMA Y CAMBIO</p>
+          <h3>Cuando el amor no es correspondido</h3>
+          <p>Una reflexión sobre aceptar la decepción, cuidar la autoestima y encontrar un camino propio después del rechazo. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a></p>
+          <a class="text-link" href="../Contenido 3/rechazo.html">Leer el tema <span>→</span></a>
+        </article>
+        <article class="topic-card">
+          <p class="section-kicker">02 · VÍNCULOS Y EMPATÍA</p>
+          <h3>La amistad que acompaña</h3>
+          <p>Cómo escuchar, respetar los límites y estar presente puede ayudar a que nadie tenga que enfrentar solo un momento difícil. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a></p>
+          <a class="text-link" href="../Contenido 4/amistad.html">Leer el tema <span>→</span></a>
+        </article>
+        <article class="topic-card">
+          <p class="section-kicker">03 · ORIGEN Y ADAPTACIÓN</p>
+          <h3>La historia de Makeine</h3>
+          <p>Conoce el recorrido de la novela ligera y cómo su historia llegó a la pantalla. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-2" aria-label="Referencia 2">[2]</a> <a class="citation" href="../Referencias/referencias.html#ref-3" aria-label="Referencia 3">[3]</a></p>
+          <a class="text-link" href="../Contenido 2/historia.html">Conocer su historia <span>→</span></a>
+        </article>
+      </div>
+    </section>
+
+    <section class="media-section section" id="trailer">
+      <div class="media-heading">
+        <p class="section-kicker">MIRA Y ESCUCHA</p>
+        <h2>Un vistazo al mundo de Makeine</h2>
+        <p>Reproduce el tráiler y escucha el opening usando los archivos incluidos con esta página. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-6" aria-label="Referencia 6">[6]</a></p>
+      </div>
+      <div class="media-grid">
+        <article class="media-card">
+          <video controls preload="metadata">
+            <source src="media/trailer-makeine.mp4" type="video/mp4">
+            Tu navegador no puede reproducir este video.
+          </video>
+          <div class="media-caption">
+            <p class="section-kicker">TRÁILER</p>
+            <h3>Conoce la serie</h3>
+          </div>
+        </article>
+        <article class="media-card audio-card">
+          <div class="audio-art">
+            <span>♪</span>
+          </div>
+          <div class="media-caption">
+            <p class="section-kicker">OPENING</p>
+            <h3>“Tsuyogaru Girl”</h3>
+            <audio controls preload="metadata">
+              <source src="media/opening-makeine.mp3" type="audio/mpeg">
+              Tu navegador no puede reproducir este audio.
+            </audio>
+          </div>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>MAKEINE</span>
+    <nav class="page-navigation" aria-label="Navegación entre páginas">
+      <a href="../Presentacion/Presentacion.html" aria-label="Ir a Presentacion" title="Presentacion">← Presentacion</a>
+      <a href="../Contenido 1/personajes.html" aria-label="Ir a Personajes" title="Personajes">Personajes →</a>
+    </nav>
+  </footer>
+</body>
+</html>

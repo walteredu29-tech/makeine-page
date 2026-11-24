@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Portada del trabajo académico sobre Makeine, realizado para el curso Informática II.">
+  <link rel="icon" type="image/png" href="../imagenes/favicon%20de%20kazuhiko%20v2.png">
+  <title>Portada | Makeine</title>
+  <link rel="stylesheet" href="../Principal/styles.css">
+</head>
+<body class="cover-page">
+  <nav class="nav" aria-label="Navegación principal">
+    <a class="brand" href="../Principal/Principal.html">MAKEINE</a>
+    <div class="nav-links">
+      <a href="../Principal/Principal.html">Principal</a>
+      <a href="../Contenido 1/personajes.html">Personajes</a>
+      <a href="../Contenido 2/historia.html">Historia</a>
+      <a href="../Contenido 3/rechazo.html">Rechazo</a>
+      <a href="../Contenido 4/amistad.html">Amistad</a>
+      <a href="../Referencias/referencias.html">Referencias</a>
+    </div>
+  </nav>
+
+  <main class="cover-main">
+    <header class="cover-heading">
+      <div class="cover-logos" aria-label="Logos de la universidad y la facultad">
+        <img src="../imagenes/logo%20de%20la%20unap.png" alt="Logo de la Universidad Nacional de la Amazonía Peruana">
+        <img src="../imagenes/logo%20de%20la%20fisi.png" alt="Logo de la Facultad de Ingeniería de Sistemas e Informática">
+      </div>
+      <p class="cover-university">Universidad Nacional de la Amazonía Peruana</p>
+      <p class="cover-faculty">Facultad de Ingeniería de Sistemas e Informática</p>
+      <p class="eyebrow">TRABAJO ACADÉMICO · INFORMÁTICA II</p>
+      <h1>Makeine:<br><em>Too Many Losing Heroines!</em></h1>
+      <p class="cover-welcome">¡Bienvenidos! Esta página reúne información sobre el anime y la novela ligera <em>Makeine</em>: su historia, sus personajes y los temas de amistad y rechazo que aparecen en la obra. Usa el índice para recorrer el trabajo.</p>
+    </header>
+
+    <section class="cover-details section" aria-labelledby="cover-details-title">
+      <div class="cover-details-heading">
+        <p class="section-kicker">DATOS DEL TRABAJO</p>
+        <h2 id="cover-details-title">Presentado por</h2>
+        <p class="cover-student">Walter Eduardo Bernuy Chávez</p>
+      </div>
+      <dl class="cover-data">
+        <div><dt>Ciclo</dt><dd>Segundo ciclo</dd></div>
+        <div><dt>Curso</dt><dd>Informática II</dd></div>
+        <div><dt>Docente</dt><dd>Ing. Luis Honorato Pita Astengo, Msc.</dd></div>
+        <div><dt>Tema</dt><dd><em>Makeine: Too Many Losing Heroines!</em></dd></div>
+      </dl>
+    </section>
+
+    <section class="cover-index section" aria-labelledby="cover-index-title">
+      <p class="section-kicker">ÍNDICE</p>
+      <h2 id="cover-index-title">Explora el trabajo</h2>
+      <ol class="cover-index-list">
+        <li><a href="../Principal/Principal.html"><span>01</span><strong>Introducción</strong><span class="cover-index-arrow">→</span></a></li>
+        <li><a href="../Contenido 1/personajes.html"><span>02</span><strong>Personajes</strong><span class="cover-index-arrow">→</span></a></li>
+        <li><a href="../Contenido 2/historia.html"><span>03</span><strong>Historia del anime y la novela</strong><span class="cover-index-arrow">→</span></a></li>
+        <li><a href="../Contenido 3/rechazo.html"><span>04</span><strong>Rechazo y autoestima</strong><span class="cover-index-arrow">→</span></a></li>
+        <li><a href="../Contenido 4/amistad.html"><span>05</span><strong>Amistad y apoyo</strong><span class="cover-index-arrow">→</span></a></li>
+        <li><a href="../Referencias/referencias.html"><span>06</span><strong>Referencias bibliográficas</strong><span class="cover-index-arrow">→</span></a></li>
+      </ol>
+    </section>
+  </main>
+
+  <footer>
+    <span>MAKEINE · INFORMÁTICA II</span>
+    <a href="../Principal/Principal.html">Entrar al sitio →</a>
+  </footer>
+</body>
+</html>

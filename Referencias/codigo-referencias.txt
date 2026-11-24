@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Fuentes y referencias consultadas para preparar el sitio informativo sobre Makeine y sus temas.">
+  <link rel="icon" type="image/png" href="../imagenes/favicon%20de%20kazuhiko.png">
+  <title>Fuentes y referencias | MAKEINE</title>
+  <link rel="stylesheet" href="../Principal/styles.css">
+</head>
+<body>
+  <a class="brand page-brand" href="../Principal/Principal.html">MAKEINE</a>
+  <main>
+    <header class="article-hero">
+      <p class="eyebrow">FUENTES Y CONSULTAS</p>
+      <h1>Referencias</h1>
+      <p class="lead">Fuentes consultadas para ampliar y verificar la información de este sitio.</p>
+    </header>
+
+    <section class="article-layout section">
+      <article class="article-body">
+        <h2>Referencias bibliográficas</h2>
+        <p>Las llamadas numéricas entre corchetes de las páginas remiten a esta lista, preparada según ISO 690.</p>
+        <ol class="iso-references">
+          <li id="ref-1"><strong>MAKEINE PRODUCTION COMMITTEE.</strong> <em>Makeine: Too Many Losing Heroines!</em> [en línea]. [Consulta: 17 noviembre 2026]. Disponible en: <a href="https://makeine-anime.com/" target="_blank" rel="noopener noreferrer">https://makeine-anime.com/</a>. Premisa, noticias y anuncios oficiales de la adaptación.</li>
+          <li id="ref-2"><strong>SHOGAKUKAN.</strong> <em>Gagaga Bunko: sitio especial de Makeine</em> [en línea]. [Consulta: 17 noviembre 2026]. Disponible en: <a href="https://gagagabunko.jp/special/makeine/" target="_blank" rel="noopener noreferrer">https://gagagabunko.jp/special/makeine/</a>. Presentación editorial de la novela ligera.</li>
+          <li id="ref-3"><strong>SHOGAKUKAN.</strong> <em>Make Heroine ga Oosugiru! 1</em> [en línea]. [Consulta: 17 noviembre 2026]. Disponible en: <a href="https://www.shogakukan.co.jp/books/09453017" target="_blank" rel="noopener noreferrer">https://www.shogakukan.co.jp/books/09453017</a>. Ficha editorial del primer volumen.</li>
+          <li id="ref-4"><strong>MAKEINE PRODUCTION COMMITTEE.</strong> <em>Character</em> [en línea]. [Consulta: 17 noviembre 2026]. Disponible en: <a href="https://makeine-anime.com/character/" target="_blank" rel="noopener noreferrer">https://makeine-anime.com/character/</a>. Perfiles oficiales de personajes.</li>
+          <li id="ref-5"><strong>MAKEINE PRODUCTION COMMITTEE.</strong> <em>Staff &amp; Cast</em> [en línea]. [Consulta: 17 noviembre 2026]. Disponible en: <a href="https://makeine-anime.com/staffcast/" target="_blank" rel="noopener noreferrer">https://makeine-anime.com/staffcast/</a>. Créditos de la obra original, equipo y reparto del anime.</li>
+          <li id="ref-6"><strong>MAKEINE PRODUCTION COMMITTEE.</strong> <em>Music</em> [en línea]. [Consulta: 17 noviembre 2026]. Disponible en: <a href="https://makeine-anime.com/music/" target="_blank" rel="noopener noreferrer">https://makeine-anime.com/music/</a>. Información oficial sobre la música de la adaptación.</li>
+          <li id="ref-7"><strong>MAKEINE WIKI.</strong> <em>Category: Characters</em> [en línea]. Fandom. [Consulta: 17 noviembre 2026]. Disponible en: <a href="https://makeine.fandom.com/wiki/Category:Characters" target="_blank" rel="noopener noreferrer">https://makeine.fandom.com/wiki/Category:Characters</a>. Fuente comunitaria complementaria para personajes secundarios.</li>
+          <li id="ref-8"><strong>SHOGAKUKAN.</strong> <em>Make Heroine ga Oosugiru! 2</em> [en línea]. [Consulta: 17 noviembre 2026]. Disponible en: <a href="https://www.shogakukan.co.jp/books/09453041" target="_blank" rel="noopener noreferrer">https://www.shogakukan.co.jp/books/09453041</a>. Ficha editorial del segundo volumen.</li>
+          <li id="ref-9"><strong>WORLD HEALTH ORGANIZATION.</strong> <em>Adolescent mental health</em> [en línea]. [Consulta: 17 noviembre 2026]. Disponible en: <a href="https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health" target="_blank" rel="noopener noreferrer">https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health</a>. Información general sobre salud mental en la adolescencia.</li>
+          <li id="ref-10"><strong>CENTERS FOR DISEASE CONTROL AND PREVENTION.</strong> <em>About Social Connectedness</em> [en línea]. [Consulta: 17 noviembre 2026]. Disponible en: <a href="https://www.cdc.gov/social-connectedness/about/index.html" target="_blank" rel="noopener noreferrer">https://www.cdc.gov/social-connectedness/about/index.html</a>. Información general sobre conexión y apoyo social.</li>
+        </ol>
+
+        <p>Las páginas resumen y comentan estas fuentes con redacción propia. Makeine Wiki es una fuente comunitaria; para los datos oficiales de la obra se priorizan el sitio del anime y la editorial.</p>
+
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <span>MAKEINE</span>
+    <nav class="page-navigation" aria-label="Navegación entre páginas">
+      <a href="../Presentacion/Presentacion.html" aria-label="Ir a Presentacion" title="Presentacion">← Presentacion</a>
+    </nav>
+  </footer>
+</body>
+</html>
