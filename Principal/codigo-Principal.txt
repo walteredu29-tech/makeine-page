@@ -125,7 +125,7 @@
       <div class="media-heading">
         <p class="section-kicker">MIRA Y ESCUCHA</p>
         <h2>Un vistazo al mundo de Makeine</h2>
-        <p>Reproduce el tráiler y escucha el opening usando los archivos incluidos con esta página. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-6" aria-label="Referencia 6">[6]</a></p>
+        <p>Reproduce el tráiler y escucha el opening usando los archivos incluidos con esta página. <a class="citation" href="../Referencias/referencias.html#ref-1" aria-label="Referencia 1">[1]</a> <a class="citation" href="../Referencias/referencias.html#ref-6" aria-label="Referencia 6">[6]</a> <a class="citation" href="../Referencias/referencias.html#ref-11" aria-label="Referencia 11">[11]</a></p>
       </div>
       <div class="media-grid">
         <article class="media-card">

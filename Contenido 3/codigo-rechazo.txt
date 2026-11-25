@@ -73,7 +73,7 @@
     <div class="media-heading">
       <p class="section-kicker">ENDING Y MÚSICA</p>
       <h2 id="rechazo-ending-title">Lemon Yakishio</h2>
-      <p>El segundo ending acompaña esta página sobre sentimientos no correspondidos. <a class="citation" href="../Referencias/referencias.html#ref-6" aria-label="Referencia 6">[6]</a></p>
+      <p>El segundo ending acompaña esta página sobre sentimientos no correspondidos. <a class="citation" href="../Referencias/referencias.html#ref-6" aria-label="Referencia 6">[6]</a> <a class="citation" href="../Referencias/referencias.html#ref-13" aria-label="Referencia 13">[13]</a></p>
     </div>
     <div class="media-grid">
       <article class="media-card">
